@@ -49,13 +49,13 @@ Search for logs with the message containing the term "Failed to connect".
 Retrieve all logs related to resourceId "server-1234".
 Filter logs between the timestamp "2023-09-10T00:00:00Z" and "2023-09-15T23:59:59Z".
 
-##Identified Issues
+## Identified Issues
 None reported as of the current version.
 
-##Configuration
+## Configuration
 Database URL and name are specified in config.js.
 Default HTTP server port is 3000.
 
-##Notes
+## Notes
 Ensure MongoDB is running and accessible before starting the log ingestor
 
